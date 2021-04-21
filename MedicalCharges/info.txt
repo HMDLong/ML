@@ -1,0 +1,3 @@
+# Hoang Mai Duc Long
+
+A medical charges prediction example, using linear regression and random forest regression
